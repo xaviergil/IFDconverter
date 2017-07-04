@@ -1,0 +1,26 @@
+// Place your settings in this file to overwrite the default settings
+{
+  "editor.fontFamily": "Source Code Pro",
+  "editor.fontSize": 12,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": false,
+  "editor.renderIndentGuides": true,
+  // Migrated from previous "File | Auto Save" setting:
+  "files.autoSave": "afterDelay",
+  // Go setup
+  "go.formatOnSave": false,
+  "go.lintTool": "gometalinter",
+  "go.lintFlags": [
+    "--disable-all",
+    "--enable=errcheck"
+  ],
+  "clock.dateFormat": "HH:MM",
+
+  "go.gocodeAutoBuild": false,
+  "editor.formatOnSave": false,
+  "html.format.indentInnerHtml": false,
+  "window.zoomLevel": -1,
+  "workbench.welcome.enabled": true,
+  "workbench.colorTheme": "Abyss",
+  "workbench.iconTheme": "vscode-icons"
+}
